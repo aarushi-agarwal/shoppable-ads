@@ -1,0 +1,337 @@
+Frame,Person_ID,Best_Match,Score
+keyframe_120.jpg,2,A person wearing pants,0.9473
+keyframe_100.jpg,2,A Western outfit,0.9368
+keyframe_66.jpg,3,A Western outfit,0.9201
+keyframe_11.jpg,1,A Western outfit,0.9157
+keyframe_153.jpg,2,A Western outfit,0.9106
+keyframe_178.jpg,2,A Western outfit,0.9102
+keyframe_35.jpg,2,A person wearing a t-shirt,0.9092
+keyframe_158.jpg,9,A Western outfit,0.9045
+keyframe_142.jpg,1,A Western outfit,0.8997
+keyframe_73.jpg,4,A Western outfit,0.8993
+keyframe_40.jpg,1,A person wearing pants,0.8986
+keyframe_144.jpg,2,A Saree,0.8844
+keyframe_153.jpg,12,A person wearing pants,0.8841
+keyframe_178.jpg,7,A Saree,0.8816
+keyframe_98.jpg,1,A Saree,0.8802
+keyframe_120.jpg,3,A Saree,0.8751
+keyframe_89.jpg,1,A person wearing pants,0.8743
+keyframe_106.jpg,2,A Western outfit,0.8686
+keyframe_40.jpg,3,A Western outfit,0.8648
+keyframe_110.jpg,1,A Saree,0.8574
+keyframe_98.jpg,2,A Western outfit,0.8537
+keyframe_102.jpg,1,A Saree,0.851
+keyframe_158.jpg,1,A Western outfit,0.8488
+keyframe_119.jpg,3,A Saree,0.8477
+keyframe_117.jpg,4,A Saree,0.8408
+keyframe_150.jpg,1,A Saree,0.839
+keyframe_23.jpg,2,A person wearing a t-shirt,0.8364
+keyframe_102.jpg,2,A Western outfit,0.8361
+keyframe_9.jpg,1,A Western outfit,0.8359
+keyframe_130.jpg,1,A person wearing pants,0.8344
+keyframe_100.jpg,1,A Western outfit,0.8319
+keyframe_25.jpg,2,A person wearing a t-shirt,0.8298
+keyframe_148.jpg,1,A Western outfit,0.8293
+keyframe_89.jpg,4,A Saree,0.8266
+keyframe_119.jpg,2,A person wearing pants,0.8212
+keyframe_151.jpg,1,A Saree,0.8205
+keyframe_178.jpg,1,A Saree,0.82
+keyframe_104.jpg,1,A Saree,0.8194
+keyframe_16.jpg,2,A Saree,0.8105
+keyframe_155.jpg,1,A Saree,0.8084
+keyframe_89.jpg,3,A Saree,0.8053
+keyframe_117.jpg,1,A person wearing pants,0.7981
+keyframe_96.jpg,2,A Saree,0.7973
+keyframe_97.jpg,1,A Saree,0.7934
+keyframe_171.jpg,1,A Saree,0.7931
+keyframe_26.jpg,2,A person wearing pants,0.7925
+keyframe_147.jpg,4,A Western outfit,0.7921
+keyframe_178.jpg,8,A Saree,0.792
+keyframe_66.jpg,5,A Western outfit,0.792
+keyframe_178.jpg,6,A Saree,0.788
+keyframe_71.jpg,1,A Western outfit,0.7876
+keyframe_131.jpg,1,A Saree,0.7829
+keyframe_117.jpg,2,A Saree,0.7756
+keyframe_176.jpg,1,A Western outfit,0.7737
+keyframe_158.jpg,3,A Saree,0.7736
+keyframe_163.jpg,10,A Western outfit,0.7684
+keyframe_66.jpg,4,A Western outfit,0.7664
+keyframe_163.jpg,3,A Western outfit,0.7653
+keyframe_124.jpg,1,A person wearing pants,0.7639
+keyframe_19.jpg,2,A person wearing a t-shirt,0.7612
+keyframe_146.jpg,1,A Western outfit,0.7558
+keyframe_143.jpg,2,A Saree,0.7538
+keyframe_66.jpg,6,A person wearing pants,0.7522
+keyframe_27.jpg,2,A person wearing a t-shirt,0.7515
+keyframe_147.jpg,3,A person wearing pants,0.7509
+keyframe_29.jpg,2,A Western outfit,0.7508
+keyframe_123.jpg,1,A Saree,0.7498
+keyframe_24.jpg,2,A person wearing pants,0.7485
+keyframe_157.jpg,2,A Saree,0.7468
+keyframe_64.jpg,1,A Saree,0.7463
+keyframe_110.jpg,2,A Western outfit,0.7452
+keyframe_126.jpg,1,A Saree,0.7407
+keyframe_159.jpg,2,A Saree,0.7381
+keyframe_154.jpg,2,A person wearing a t-shirt,0.7357
+keyframe_30.jpg,1,A person wearing a t-shirt,0.7341
+keyframe_175.jpg,1,A Saree,0.7322
+keyframe_3.jpg,1,A Western outfit,0.729
+keyframe_40.jpg,4,A Western outfit,0.7267
+keyframe_163.jpg,1,A Saree,0.7251
+keyframe_174.jpg,2,A Saree,0.7239
+keyframe_121.jpg,2,A person wearing pants,0.7236
+keyframe_163.jpg,5,A Western outfit,0.7231
+keyframe_179.jpg,1,A Saree,0.7189
+keyframe_96.jpg,1,A person wearing pants,0.712
+keyframe_133.jpg,4,A Western outfit,0.7112
+keyframe_31.jpg,2,A person wearing a t-shirt,0.7109
+keyframe_165.jpg,4,A Saree,0.7086
+keyframe_32.jpg,1,A person wearing a t-shirt,0.7028
+keyframe_161.jpg,2,A Saree,0.7026
+keyframe_10.jpg,1,A Saree,0.7022
+keyframe_172.jpg,1,A Western outfit,0.7017
+keyframe_118.jpg,1,A Western outfit,0.6976
+keyframe_18.jpg,2,A Saree,0.6958
+keyframe_15.jpg,1,A Western outfit,0.6942
+keyframe_28.jpg,2,A person wearing pants,0.693
+keyframe_73.jpg,2,A Western outfit,0.6921
+keyframe_141.jpg,2,A Saree,0.691
+keyframe_158.jpg,7,A Western outfit,0.6899
+keyframe_165.jpg,3,A Saree,0.6859
+keyframe_163.jpg,9,A Western outfit,0.6825
+keyframe_137.jpg,1,A Saree,0.6798
+keyframe_144.jpg,1,A Western outfit,0.6798
+keyframe_164.jpg,1,A Western outfit,0.6785
+keyframe_156.jpg,9,A Western outfit,0.6783
+keyframe_133.jpg,2,A person wearing pants,0.6697
+keyframe_158.jpg,5,A Saree,0.669
+keyframe_178.jpg,3,A person wearing pants,0.6665
+keyframe_147.jpg,8,A Western outfit,0.6651
+keyframe_165.jpg,1,A person wearing pants,0.6628
+keyframe_145.jpg,1,A Saree,0.6626
+keyframe_89.jpg,2,A Saree,0.6619
+keyframe_163.jpg,4,A Western outfit,0.6606
+keyframe_36.jpg,1,A Saree,0.6606
+keyframe_13.jpg,1,A Western outfit,0.66
+keyframe_115.jpg,1,A Western outfit,0.6598
+keyframe_64.jpg,2,A person wearing pants,0.6589
+keyframe_121.jpg,1,A person wearing pants,0.6583
+keyframe_70.jpg,1,A Saree,0.6575
+keyframe_149.jpg,1,A person wearing a t-shirt,0.6538
+keyframe_163.jpg,2,A Western outfit,0.6535
+keyframe_147.jpg,2,A Western outfit,0.6532
+keyframe_176.jpg,2,A Saree,0.6532
+keyframe_121.jpg,4,A Western outfit,0.6512
+keyframe_21.jpg,1,A person wearing a t-shirt,0.6495
+keyframe_121.jpg,3,A person wearing pants,0.6475
+keyframe_127.jpg,1,A Saree,0.6465
+keyframe_180.jpg,1,A Western outfit,0.6463
+keyframe_170.jpg,1,A Saree,0.6425
+keyframe_159.jpg,1,A Saree,0.6404
+keyframe_174.jpg,1,A Western outfit,0.6401
+keyframe_147.jpg,7,A Western outfit,0.6397
+keyframe_153.jpg,9,A Western outfit,0.6396
+keyframe_167.jpg,1,A Saree,0.6382
+keyframe_71.jpg,4,A person wearing pants,0.6373
+keyframe_141.jpg,3,A Saree,0.6361
+keyframe_12.jpg,1,A Saree,0.6358
+keyframe_163.jpg,6,A Western outfit,0.6344
+keyframe_156.jpg,3,A Saree,0.6339
+keyframe_65.jpg,3,A Saree,0.6322
+keyframe_24.jpg,1,A person wearing a t-shirt,0.6307
+keyframe_125.jpg,1,A Saree,0.6303
+keyframe_156.jpg,2,A Saree,0.6295
+keyframe_166.jpg,1,A Saree,0.6255
+keyframe_73.jpg,1,A Saree,0.625
+keyframe_172.jpg,2,A Saree,0.6245
+keyframe_157.jpg,1,A Western outfit,0.6235
+keyframe_143.jpg,1,A Saree,0.6234
+keyframe_161.jpg,1,A Saree,0.6179
+keyframe_111.jpg,1,A person wearing pants,0.6154
+keyframe_116.jpg,1,A Western outfit,0.6152
+keyframe_153.jpg,3,A person wearing pants,0.6139
+keyframe_124.jpg,3,A person wearing pants,0.6133
+keyframe_113.jpg,1,A Saree,0.6129
+keyframe_112.jpg,1,A person wearing pants,0.6092
+keyframe_73.jpg,3,A Western outfit,0.6075
+keyframe_165.jpg,2,A person wearing pants,0.6066
+keyframe_165.jpg,5,A Western outfit,0.6062
+keyframe_65.jpg,4,A Western outfit,0.6037
+keyframe_178.jpg,5,A person wearing pants,0.602
+keyframe_47.jpg,1,A person wearing pants,0.5992
+keyframe_156.jpg,1,A Western outfit,0.5987
+keyframe_133.jpg,1,A Western outfit,0.5949
+keyframe_145.jpg,2,A Saree,0.5943
+keyframe_37.jpg,2,A person wearing a t-shirt,0.5921
+keyframe_147.jpg,1,A Western outfit,0.5907
+keyframe_140.jpg,1,A Western outfit,0.5869
+keyframe_171.jpg,2,A Western outfit,0.5858
+keyframe_42.jpg,1,A Saree,0.5836
+keyframe_32.jpg,2,A person wearing pants,0.5821
+keyframe_138.jpg,1,A person wearing pants,0.5813
+keyframe_60.jpg,1,A person wearing pants,0.5791
+keyframe_61.jpg,1,A person wearing pants,0.5775
+keyframe_108.jpg,1,A person wearing pants,0.576
+keyframe_26.jpg,1,A person wearing a t-shirt,0.5747
+keyframe_65.jpg,5,A Western outfit,0.574
+keyframe_5.jpg,1,A Western outfit,0.5736
+keyframe_65.jpg,2,A Western outfit,0.5734
+keyframe_151.jpg,2,A Saree,0.5718
+keyframe_88.jpg,1,A Western outfit,0.5715
+keyframe_153.jpg,6,A Saree,0.571
+keyframe_152.jpg,1,A Saree,0.5709
+keyframe_66.jpg,1,A person wearing a t-shirt,0.5709
+keyframe_58.jpg,1,A person wearing pants,0.57
+keyframe_106.jpg,1,A Saree,0.5671
+keyframe_158.jpg,4,A Western outfit,0.5671
+keyframe_19.jpg,3,A Western outfit,0.5651
+keyframe_156.jpg,7,A Western outfit,0.5638
+keyframe_31.jpg,1,A Western outfit,0.5604
+keyframe_177.jpg,1,A Saree,0.5587
+keyframe_34.jpg,1,A person wearing a t-shirt,0.5571
+keyframe_33.jpg,1,A woman wearing a saree,0.5521
+keyframe_39.jpg,2,A person wearing a t-shirt,0.552
+keyframe_156.jpg,4,A person wearing pants,0.5515
+keyframe_82.jpg,1,A person wearing pants,0.5515
+keyframe_129.jpg,1,A Saree,0.546
+keyframe_94.jpg,1,A woman wearing a saree,0.5456
+keyframe_153.jpg,11,A Western outfit,0.5451
+keyframe_43.jpg,1,A Saree,0.5445
+keyframe_109.jpg,1,A Saree,0.5403
+keyframe_148.jpg,2,A woman wearing a saree,0.5376
+keyframe_156.jpg,8,A Saree,0.5363
+keyframe_156.jpg,6,A Western outfit,0.5358
+keyframe_142.jpg,2,A Saree,0.5356
+keyframe_30.jpg,2,A person wearing a t-shirt,0.5348
+keyframe_35.jpg,3,A Western outfit,0.5327
+keyframe_122.jpg,1,A Saree,0.5316
+keyframe_31.jpg,4,A Western outfit,0.5305
+keyframe_18.jpg,1,A Western outfit,0.5278
+keyframe_29.jpg,3,A person wearing pants,0.5263
+keyframe_20.jpg,2,A Western outfit,0.5209
+keyframe_163.jpg,7,A Western outfit,0.5208
+keyframe_2.jpg,1,A Saree,0.5171
+keyframe_44.jpg,1,A Western outfit,0.5164
+keyframe_79.jpg,1,A woman wearing a saree,0.5161
+keyframe_38.jpg,1,A woman wearing a saree,0.5159
+keyframe_28.jpg,1,A person wearing a t-shirt,0.5152
+keyframe_153.jpg,7,A Western outfit,0.5142
+keyframe_66.jpg,2,A person wearing pants,0.5111
+keyframe_181.jpg,1,A woman wearing a saree,0.5105
+keyframe_147.jpg,5,A Western outfit,0.5103
+keyframe_25.jpg,1,A Western outfit,0.5078
+keyframe_45.jpg,1,A Saree,0.5068
+keyframe_4.jpg,1,A Saree,0.5058
+keyframe_46.jpg,1,A woman wearing a saree,0.502
+keyframe_153.jpg,10,A person wearing pants,0.5019
+keyframe_68.jpg,1,A person wearing pants,0.5018
+keyframe_163.jpg,8,A Western outfit,0.5015
+keyframe_61.jpg,2,A Western outfit,0.5012
+keyframe_87.jpg,1,A Saree,0.5011
+keyframe_64.jpg,3,A person wearing pants,0.5008
+keyframe_124.jpg,2,A Western outfit,0.5007
+keyframe_107.jpg,2,A Saree,0.5
+keyframe_139.jpg,1,A Saree,0.4998
+keyframe_156.jpg,5,A person wearing pants,0.4937
+keyframe_22.jpg,1,A person wearing a t-shirt,0.4932
+keyframe_164.jpg,2,A Saree,0.4919
+keyframe_95.jpg,1,A woman wearing a saree,0.4898
+keyframe_78.jpg,1,A Western outfit,0.4897
+keyframe_6.jpg,1,A woman wearing a saree,0.4888
+keyframe_138.jpg,2,A person wearing pants,0.4884
+keyframe_146.jpg,2,A Saree,0.4884
+keyframe_83.jpg,1,A Saree,0.4877
+keyframe_23.jpg,1,A Western outfit,0.4856
+keyframe_147.jpg,6,A Western outfit,0.4803
+keyframe_141.jpg,1,A Saree,0.4788
+keyframe_128.jpg,1,A Western outfit,0.4781
+keyframe_124.jpg,4,A person wearing pants,0.4771
+keyframe_17.jpg,1,A person wearing pants,0.4768
+keyframe_22.jpg,2,A person wearing pants,0.4758
+keyframe_20.jpg,1,A person wearing a t-shirt,0.4745
+keyframe_147.jpg,9,A Western outfit,0.4673
+keyframe_54.jpg,1,A person wearing pants,0.467
+keyframe_71.jpg,3,A person wearing a t-shirt,0.4643
+keyframe_153.jpg,4,A Western outfit,0.4642
+keyframe_134.jpg,1,A Western outfit,0.4631
+keyframe_111.jpg,3,A person wearing pants,0.4621
+keyframe_71.jpg,2,A Saree,0.4611
+keyframe_30.jpg,3,A person wearing pants,0.4587
+keyframe_132.jpg,1,A Saree,0.4551
+keyframe_153.jpg,8,A person wearing pants,0.455
+keyframe_8.jpg,1,A woman wearing a saree,0.4538
+keyframe_52.jpg,1,A person wearing pants,0.4527
+keyframe_65.jpg,1,A Saree,0.452
+keyframe_158.jpg,10,A Western outfit,0.4519
+keyframe_67.jpg,1,A Saree,0.4516
+keyframe_158.jpg,6,A person wearing pants,0.4515
+keyframe_158.jpg,8,A person wearing pants,0.4499
+keyframe_158.jpg,2,A Western outfit,0.4494
+keyframe_93.jpg,1,A woman wearing a saree,0.4492
+keyframe_90.jpg,2,A Western outfit,0.4466
+keyframe_72.jpg,1,A person wearing pants,0.4464
+keyframe_14.jpg,1,A Saree,0.4457
+keyframe_109.jpg,2,A Saree,0.445
+keyframe_85.jpg,1,A woman wearing a saree,0.4448
+keyframe_149.jpg,2,A person wearing pants,0.4444
+keyframe_154.jpg,1,A person wearing a t-shirt,0.4436
+keyframe_133.jpg,3,A Western outfit,0.4399
+keyframe_37.jpg,3,A Western outfit,0.4365
+keyframe_84.jpg,1,A person wearing pants,0.4362
+keyframe_80.jpg,1,A Saree,0.4343
+keyframe_74.jpg,1,A woman wearing a saree,0.4315
+keyframe_62.jpg,1,A person wearing pants,0.431
+keyframe_70.jpg,2,A Western outfit,0.4306
+keyframe_29.jpg,4,A person wearing pants,0.4284
+keyframe_99.jpg,1,A Western outfit,0.4272
+keyframe_16.jpg,1,A Saree,0.4258
+keyframe_153.jpg,1,A person wearing pants,0.4256
+keyframe_153.jpg,5,A Saree,0.4242
+keyframe_140.jpg,2,A Saree,0.4229
+keyframe_19.jpg,1,A person wearing pants,0.4223
+keyframe_57.jpg,1,A person wearing a t-shirt,0.4212
+keyframe_39.jpg,1,A Western outfit,0.4196
+keyframe_49.jpg,1,A person wearing pants,0.4177
+keyframe_39.jpg,3,A Western outfit,0.4173
+keyframe_56.jpg,1,A person wearing a t-shirt,0.4173
+keyframe_40.jpg,2,A person wearing pants,0.4155
+keyframe_81.jpg,1,A woman wearing a saree,0.4145
+keyframe_162.jpg,1,A Western outfit,0.4085
+keyframe_119.jpg,1,A person wearing pants,0.4067
+keyframe_169.jpg,1,A Western outfit,0.4066
+keyframe_117.jpg,3,A Western outfit,0.4061
+keyframe_21.jpg,3,A person wearing pants,0.3988
+keyframe_7.jpg,1,A Western outfit,0.397
+keyframe_90.jpg,1,A Western outfit,0.3961
+keyframe_135.jpg,1,A person wearing a t-shirt,0.3929
+keyframe_69.jpg,1,A person wearing a t-shirt,0.3901
+keyframe_51.jpg,1,A person wearing pants,0.3892
+keyframe_29.jpg,1,A Western outfit,0.3853
+keyframe_31.jpg,3,A person wearing pants,0.3853
+keyframe_92.jpg,1,A Saree,0.3843
+keyframe_111.jpg,2,A person wearing pants,0.3835
+keyframe_55.jpg,1,A person wearing a t-shirt,0.3828
+keyframe_21.jpg,2,A Western outfit,0.3764
+keyframe_168.jpg,1,A Western outfit,0.3758
+keyframe_178.jpg,4,A Western outfit,0.3736
+keyframe_75.jpg,1,A woman wearing a saree,0.3711
+keyframe_48.jpg,1,A person wearing a t-shirt,0.3657
+keyframe_77.jpg,1,A Saree,0.3636
+keyframe_35.jpg,1,A person wearing a t-shirt,0.3634
+keyframe_34.jpg,2,A Western outfit,0.3619
+keyframe_173.jpg,1,A Western outfit,0.3577
+keyframe_107.jpg,1,A person wearing pants,0.3564
+keyframe_37.jpg,1,A Western outfit,0.355
+keyframe_86.jpg,1,A person wearing pants,0.3512
+keyframe_27.jpg,1,A person wearing pants,0.3449
+keyframe_63.jpg,1,A person wearing pants,0.3435
+keyframe_50.jpg,1,A person wearing pants,0.3388
+keyframe_136.jpg,1,A person wearing pants,0.3252
+keyframe_138.jpg,3,A long dress,0.3226
+keyframe_53.jpg,1,A person wearing pants,0.3205
+keyframe_76.jpg,1,A Saree,0.3155
+keyframe_139.jpg,2,A Saree,0.3149
+keyframe_59.jpg,1,A person wearing a t-shirt,0.3073
+keyframe_91.jpg,1,A person wearing pants,0.3028
+keyframe_120.jpg,1,A Western outfit,0.2833
+keyframe_160.jpg,1,A Saree,0.2819

@@ -1,0 +1,337 @@
+Frame,Person_ID,Best_Match,Score
+keyframe_10.jpg,1,A Saree,0.6333
+keyframe_100.jpg,1,A Kurta,0.9506
+keyframe_100.jpg,2,A Saree,0.4273
+keyframe_102.jpg,1,A Saree,0.7914
+keyframe_102.jpg,2,A Necklace,0.3983
+keyframe_104.jpg,1,A Saree,0.6646
+keyframe_106.jpg,2,A Kurta,0.7751
+keyframe_106.jpg,1,A Saree,0.5211
+keyframe_107.jpg,1,A Kurta,0.9849
+keyframe_107.jpg,2,A Necklace,0.3146
+keyframe_108.jpg,1,A person wearing pants,0.4048
+keyframe_109.jpg,2,A Kurta,0.6662
+keyframe_109.jpg,1,A Saree,0.4728
+keyframe_11.jpg,1,A Kurta,0.9738
+keyframe_110.jpg,1,A Saree,0.8532
+keyframe_110.jpg,2,A Kurta,0.7667
+keyframe_111.jpg,1,A Necklace,0.4512
+keyframe_111.jpg,3,A Necklace,0.3399
+keyframe_111.jpg,2,A Kurta,0.2684
+keyframe_112.jpg,1,A person wearing pants,0.4376
+keyframe_113.jpg,1,A Saree,0.6452
+keyframe_115.jpg,1,A Necklace,0.315
+keyframe_116.jpg,1,A person wearing pants,0.6454
+keyframe_117.jpg,1,A person wearing pants,0.8077
+keyframe_117.jpg,4,A Saree,0.7593
+keyframe_117.jpg,2,A Saree,0.7485
+keyframe_117.jpg,3,A Kurta,0.3748
+keyframe_118.jpg,1,A Kurta,0.3277
+keyframe_119.jpg,3,A Saree,0.8702
+keyframe_119.jpg,2,A person wearing pants,0.8507
+keyframe_119.jpg,1,A person wearing pants,0.4054
+keyframe_12.jpg,1,A Saree,0.5442
+keyframe_120.jpg,2,A person wearing pants,0.9571
+keyframe_120.jpg,3,A Saree,0.8589
+keyframe_120.jpg,1,A person wearing pants,0.2475
+keyframe_121.jpg,2,A person wearing pants,0.8631
+keyframe_121.jpg,3,A person wearing pants,0.7171
+keyframe_121.jpg,1,A Kurta,0.5942
+keyframe_121.jpg,4,A person wearing pants,0.5261
+keyframe_122.jpg,1,A Kurta,0.4027
+keyframe_123.jpg,1,A Saree,0.7353
+keyframe_124.jpg,1,A person wearing pants,0.7542
+keyframe_124.jpg,4,A person wearing pants,0.637
+keyframe_124.jpg,2,A person wearing pants,0.542
+keyframe_124.jpg,3,A person wearing pants,0.5394
+keyframe_125.jpg,1,A Saree,0.5837
+keyframe_126.jpg,1,A Saree,0.6432
+keyframe_127.jpg,1,A Saree,0.6339
+keyframe_128.jpg,1,A Kurta,0.4356
+keyframe_129.jpg,1,A Saree,0.3987
+keyframe_13.jpg,1,A Kurta,0.9677
+keyframe_130.jpg,1,A person wearing pants,0.5897
+keyframe_131.jpg,1,A Saree,0.7505
+keyframe_132.jpg,1,A Saree,0.3168
+keyframe_133.jpg,2,A person wearing pants,0.7712
+keyframe_133.jpg,1,A t-shirt,0.6313
+keyframe_133.jpg,3,A person wearing pants,0.5413
+keyframe_133.jpg,4,A person wearing pants,0.4724
+keyframe_134.jpg,1,A person wearing pants,0.4109
+keyframe_135.jpg,1,A Necklace,0.597
+keyframe_136.jpg,1,A Necklace,0.422
+keyframe_137.jpg,1,A Saree,0.5127
+keyframe_138.jpg,2,A person wearing pants,0.7621
+keyframe_138.jpg,1,A person wearing pants,0.6109
+keyframe_138.jpg,3,A long dress,0.2319
+keyframe_139.jpg,2,A Saree,0.3132
+keyframe_139.jpg,1,A woman wearing a saree,0.2905
+keyframe_14.jpg,1,A Saree,0.3232
+keyframe_140.jpg,1,A Necklace,0.6906
+keyframe_140.jpg,2,A person wearing pants,0.3055
+keyframe_141.jpg,3,A Saree,0.5496
+keyframe_141.jpg,1,A Necklace,0.3746
+keyframe_141.jpg,2,A Saree,0.3694
+keyframe_142.jpg,1,A Necklace,0.8939
+keyframe_142.jpg,2,A Saree,0.5975
+keyframe_143.jpg,2,A Saree,0.7475
+keyframe_143.jpg,1,A Saree,0.5583
+keyframe_144.jpg,2,A Saree,0.8007
+keyframe_144.jpg,1,A person wearing pants,0.547
+keyframe_145.jpg,2,A Saree,0.5768
+keyframe_145.jpg,1,A Saree,0.5698
+keyframe_146.jpg,1,A Kurta,0.9866
+keyframe_146.jpg,2,A Saree,0.4032
+keyframe_147.jpg,3,A person wearing pants,0.6931
+keyframe_147.jpg,2,A person wearing pants,0.6482
+keyframe_147.jpg,9,A person wearing pants,0.4595
+keyframe_147.jpg,5,A person wearing pants,0.4269
+keyframe_147.jpg,4,A person wearing pants,0.3891
+keyframe_147.jpg,7,A Necklace,0.3547
+keyframe_147.jpg,1,A Kurta,0.3523
+keyframe_147.jpg,8,A person wearing pants,0.3114
+keyframe_147.jpg,6,A Saree,0.2856
+keyframe_148.jpg,1,A Kurta,0.981
+keyframe_148.jpg,2,A woman wearing a saree,0.3899
+keyframe_149.jpg,2,A Kurta,0.6651
+keyframe_149.jpg,1,A t-shirt,0.6159
+keyframe_15.jpg,1,A Kurta,0.9331
+keyframe_150.jpg,1,A Saree,0.7045
+keyframe_151.jpg,1,A Saree,0.7367
+keyframe_151.jpg,2,A Saree,0.5207
+keyframe_152.jpg,1,A Necklace,0.3651
+keyframe_153.jpg,12,A person wearing pants,0.8468
+keyframe_153.jpg,6,A Saree,0.829
+keyframe_153.jpg,5,A Saree,0.6905
+keyframe_153.jpg,8,A person wearing pants,0.6218
+keyframe_153.jpg,2,A person wearing pants,0.5689
+keyframe_153.jpg,10,A person wearing pants,0.5431
+keyframe_153.jpg,3,A person wearing pants,0.5351
+keyframe_153.jpg,1,A person wearing pants,0.5024
+keyframe_153.jpg,11,A person wearing pants,0.4342
+keyframe_153.jpg,9,A Necklace,0.4162
+keyframe_153.jpg,7,A Necklace,0.3715
+keyframe_153.jpg,4,A Saree,0.3712
+keyframe_154.jpg,1,A Kurta,0.9036
+keyframe_154.jpg,2,A person wearing a t-shirt,0.3489
+keyframe_155.jpg,1,A Saree,0.6213
+keyframe_156.jpg,1,A person wearing pants,0.8818
+keyframe_156.jpg,2,A Saree,0.7108
+keyframe_156.jpg,3,A Saree,0.6551
+keyframe_156.jpg,9,A Necklace,0.633
+keyframe_156.jpg,4,A person wearing pants,0.6238
+keyframe_156.jpg,8,A Saree,0.4644
+keyframe_156.jpg,5,A person wearing pants,0.4594
+keyframe_156.jpg,7,A t-shirt,0.4523
+keyframe_156.jpg,6,A Necklace,0.3317
+keyframe_157.jpg,2,A Saree,0.7762
+keyframe_157.jpg,1,A t-shirt,0.409
+keyframe_158.jpg,1,A person wearing pants,0.8313
+keyframe_158.jpg,3,A Saree,0.7703
+keyframe_158.jpg,5,A Saree,0.6571
+keyframe_158.jpg,8,A person wearing pants,0.5132
+keyframe_158.jpg,10,A person wearing pants,0.4755
+keyframe_158.jpg,6,A t-shirt,0.424
+keyframe_158.jpg,9,A Necklace,0.422
+keyframe_158.jpg,2,A person wearing pants,0.3491
+keyframe_158.jpg,4,A t-shirt,0.3032
+keyframe_158.jpg,7,A Necklace,0.2724
+keyframe_159.jpg,2,A Saree,0.7733
+keyframe_159.jpg,1,A Saree,0.5217
+keyframe_16.jpg,2,A Saree,0.8153
+keyframe_16.jpg,1,A Kurta,0.8021
+keyframe_160.jpg,1,A t-shirt,0.3827
+keyframe_161.jpg,2,A Saree,0.5883
+keyframe_161.jpg,1,A Saree,0.4891
+keyframe_162.jpg,1,A person wearing pants,0.2584
+keyframe_163.jpg,3,A person wearing pants,0.7456
+keyframe_163.jpg,1,A Saree,0.7057
+keyframe_163.jpg,5,A person wearing pants,0.5684
+keyframe_163.jpg,7,A Saree,0.5388
+keyframe_163.jpg,4,A t-shirt,0.5261
+keyframe_163.jpg,6,A person wearing pants,0.3503
+keyframe_163.jpg,10,A Necklace,0.3348
+keyframe_163.jpg,8,A person wearing pants,0.3085
+keyframe_163.jpg,9,A person wearing pants,0.2612
+keyframe_163.jpg,2,A t-shirt,0.2214
+keyframe_164.jpg,1,A Kurta,0.9888
+keyframe_164.jpg,2,A Saree,0.4367
+keyframe_165.jpg,2,A person wearing pants,0.9408
+keyframe_165.jpg,4,A Saree,0.7038
+keyframe_165.jpg,3,A Saree,0.6281
+keyframe_165.jpg,1,A person wearing pants,0.5598
+keyframe_165.jpg,5,A Kurta,0.4991
+keyframe_166.jpg,1,A Kurta,0.3552
+keyframe_167.jpg,1,A Saree,0.5324
+keyframe_168.jpg,1,A Kurta,0.6349
+keyframe_169.jpg,1,A Necklace,0.5254
+keyframe_17.jpg,1,A Kurta,0.6663
+keyframe_170.jpg,1,A Saree,0.5213
+keyframe_171.jpg,2,A Kurta,0.8677
+keyframe_171.jpg,1,A Saree,0.6963
+keyframe_172.jpg,1,A Kurta,0.9873
+keyframe_172.jpg,2,A Saree,0.4267
+keyframe_173.jpg,1,A Kurta,0.6413
+keyframe_174.jpg,1,A Kurta,0.9815
+keyframe_174.jpg,2,A Saree,0.6677
+keyframe_175.jpg,1,A Saree,0.6908
+keyframe_176.jpg,1,A Kurta,0.9881
+keyframe_176.jpg,2,A Saree,0.5991
+keyframe_177.jpg,1,A Saree,0.4534
+keyframe_178.jpg,7,A Saree,0.8857
+keyframe_178.jpg,2,A person wearing pants,0.8724
+keyframe_178.jpg,5,A person wearing pants,0.8615
+keyframe_178.jpg,3,A person wearing pants,0.8224
+keyframe_178.jpg,1,A Saree,0.8173
+keyframe_178.jpg,6,A Saree,0.7889
+keyframe_178.jpg,4,A person wearing pants,0.4611
+keyframe_178.jpg,8,A Saree,0.4516
+keyframe_179.jpg,1,A Saree,0.6008
+keyframe_18.jpg,1,A Kurta,0.9383
+keyframe_18.jpg,2,A Saree,0.6831
+keyframe_180.jpg,1,A Kurta,0.8329
+keyframe_181.jpg,1,A woman wearing a saree,0.4491
+keyframe_19.jpg,1,A t-shirt,0.8235
+keyframe_19.jpg,2,A t-shirt,0.6149
+keyframe_19.jpg,3,A person wearing pants,0.3876
+keyframe_2.jpg,1,A Saree,0.4292
+keyframe_20.jpg,1,A Necklace,0.568
+keyframe_20.jpg,2,A Necklace,0.5053
+keyframe_21.jpg,2,A Kurta,0.6691
+keyframe_21.jpg,1,A t-shirt,0.4702
+keyframe_21.jpg,3,A person wearing pants,0.3989
+keyframe_22.jpg,2,A person wearing pants,0.4456
+keyframe_22.jpg,1,A t-shirt,0.4432
+keyframe_23.jpg,2,A t-shirt,0.6762
+keyframe_23.jpg,1,A Kurta,0.5912
+keyframe_24.jpg,2,A person wearing pants,0.6623
+keyframe_24.jpg,1,A t-shirt,0.3946
+keyframe_25.jpg,1,A Kurta,0.7792
+keyframe_25.jpg,2,A t-shirt,0.5935
+keyframe_26.jpg,2,A person wearing pants,0.7298
+keyframe_26.jpg,1,A t-shirt,0.4343
+keyframe_27.jpg,1,A Kurta,0.5811
+keyframe_27.jpg,2,A t-shirt,0.4622
+keyframe_28.jpg,2,A person wearing pants,0.662
+keyframe_28.jpg,1,A Necklace,0.43
+keyframe_29.jpg,2,A Kurta,0.6897
+keyframe_29.jpg,3,A person wearing pants,0.4897
+keyframe_29.jpg,4,A person wearing pants,0.3531
+keyframe_29.jpg,1,A Necklace,0.2867
+keyframe_3.jpg,1,A Kurta,0.9473
+keyframe_30.jpg,2,A Kurta,0.6108
+keyframe_30.jpg,3,A person wearing pants,0.5348
+keyframe_30.jpg,1,A t-shirt,0.4056
+keyframe_31.jpg,4,A Kurta,0.8267
+keyframe_31.jpg,1,A t-shirt,0.6131
+keyframe_31.jpg,2,A t-shirt,0.4883
+keyframe_31.jpg,3,A t-shirt,0.4369
+keyframe_32.jpg,2,A person wearing pants,0.4276
+keyframe_32.jpg,1,A Necklace,0.345
+keyframe_33.jpg,1,A woman wearing a saree,0.52
+keyframe_34.jpg,1,A Necklace,0.7014
+keyframe_34.jpg,2,A person wearing pants,0.2713
+keyframe_35.jpg,2,A t-shirt,0.6871
+keyframe_35.jpg,1,A Kurta,0.6464
+keyframe_35.jpg,3,A t-shirt,0.2963
+keyframe_36.jpg,1,A Saree,0.5326
+keyframe_37.jpg,1,A Kurta,0.8287
+keyframe_37.jpg,3,A t-shirt,0.4759
+keyframe_37.jpg,2,A t-shirt,0.4552
+keyframe_38.jpg,1,A woman wearing a saree,0.4495
+keyframe_39.jpg,1,A Kurta,0.8761
+keyframe_39.jpg,3,A t-shirt,0.3537
+keyframe_39.jpg,2,A person wearing a t-shirt,0.3421
+keyframe_4.jpg,1,A Saree,0.4129
+keyframe_40.jpg,1,A person wearing pants,0.8788
+keyframe_40.jpg,2,A person wearing pants,0.548
+keyframe_40.jpg,4,A t-shirt,0.4016
+keyframe_40.jpg,3,A person wearing pants,0.2949
+keyframe_42.jpg,1,A Saree,0.4461
+keyframe_43.jpg,1,A Kurta,0.2713
+keyframe_44.jpg,1,A Kurta,0.8455
+keyframe_45.jpg,1,A Necklace,0.31
+keyframe_46.jpg,1,A woman wearing a saree,0.3323
+keyframe_47.jpg,1,A Kurta,0.4692
+keyframe_48.jpg,1,A Kurta,0.6909
+keyframe_49.jpg,1,A Kurta,0.5992
+keyframe_5.jpg,1,A Kurta,0.5397
+keyframe_50.jpg,1,A Kurta,0.5191
+keyframe_51.jpg,1,A Kurta,0.4963
+keyframe_52.jpg,1,A Kurta,0.7943
+keyframe_53.jpg,1,A Kurta,0.6065
+keyframe_54.jpg,1,A Kurta,0.7756
+keyframe_55.jpg,1,A Kurta,0.4358
+keyframe_56.jpg,1,A Kurta,0.6776
+keyframe_57.jpg,1,A Kurta,0.4832
+keyframe_58.jpg,1,A Kurta,0.5124
+keyframe_59.jpg,1,A Kurta,0.573
+keyframe_6.jpg,1,A woman wearing a saree,0.4245
+keyframe_60.jpg,1,A Kurta,0.5852
+keyframe_61.jpg,1,A person wearing pants,0.8616
+keyframe_61.jpg,2,A t-shirt,0.4748
+keyframe_62.jpg,1,A Kurta,0.6725
+keyframe_63.jpg,1,A Kurta,0.7801
+keyframe_64.jpg,2,A person wearing pants,0.8415
+keyframe_64.jpg,3,A person wearing pants,0.7115
+keyframe_64.jpg,1,A Necklace,0.5911
+keyframe_65.jpg,2,A person wearing pants,0.6623
+keyframe_65.jpg,3,A Saree,0.6186
+keyframe_65.jpg,4,A person wearing pants,0.6035
+keyframe_65.jpg,5,A person wearing pants,0.4291
+keyframe_65.jpg,1,A t-shirt,0.2979
+keyframe_66.jpg,6,A person wearing pants,0.9943
+keyframe_66.jpg,2,A person wearing pants,0.9351
+keyframe_66.jpg,4,A t-shirt,0.464
+keyframe_66.jpg,5,A Necklace,0.4173
+keyframe_66.jpg,1,A Necklace,0.32
+keyframe_66.jpg,3,A person wearing pants,0.2787
+keyframe_67.jpg,1,A Kurta,0.3922
+keyframe_68.jpg,1,A Kurta,0.7404
+keyframe_69.jpg,1,A Kurta,0.6522
+keyframe_7.jpg,1,A Kurta,0.5579
+keyframe_70.jpg,1,A Saree,0.5859
+keyframe_70.jpg,2,A person wearing pants,0.4784
+keyframe_71.jpg,4,A person wearing pants,0.9171
+keyframe_71.jpg,3,A t-shirt,0.5017
+keyframe_71.jpg,2,A Saree,0.4968
+keyframe_71.jpg,1,A t-shirt,0.3721
+keyframe_72.jpg,1,A Kurta,0.5732
+keyframe_73.jpg,2,A person wearing pants,0.549
+keyframe_73.jpg,4,A person wearing pants,0.4584
+keyframe_73.jpg,3,A t-shirt,0.4363
+keyframe_73.jpg,1,A Saree,0.338
+keyframe_74.jpg,1,A Kurta,0.5522
+keyframe_75.jpg,1,A Necklace,0.3241
+keyframe_76.jpg,1,A Saree,0.2861
+keyframe_77.jpg,1,A Necklace,0.3998
+keyframe_78.jpg,1,A Necklace,0.3521
+keyframe_79.jpg,1,A woman wearing a saree,0.2777
+keyframe_8.jpg,1,A woman wearing a saree,0.372
+keyframe_80.jpg,1,A Necklace,0.3209
+keyframe_81.jpg,1,A Necklace,0.3722
+keyframe_82.jpg,1,A person wearing pants,0.4288
+keyframe_83.jpg,1,A Saree,0.3415
+keyframe_84.jpg,1,A Necklace,0.4015
+keyframe_85.jpg,1,A woman wearing a saree,0.3463
+keyframe_86.jpg,1,A t-shirt,0.345
+keyframe_87.jpg,1,A Necklace,0.3323
+keyframe_88.jpg,1,A Necklace,0.6354
+keyframe_89.jpg,1,A person wearing pants,0.8809
+keyframe_89.jpg,4,A Saree,0.8182
+keyframe_89.jpg,3,A Saree,0.7966
+keyframe_89.jpg,2,A Saree,0.7499
+keyframe_9.jpg,1,A Kurta,0.95
+keyframe_90.jpg,2,A t-shirt,0.3159
+keyframe_90.jpg,1,A Saree,0.2702
+keyframe_91.jpg,1,A woman wearing a saree,0.2897
+keyframe_92.jpg,1,A Saree,0.407
+keyframe_93.jpg,1,A woman wearing a saree,0.4548
+keyframe_94.jpg,1,A woman wearing a saree,0.4041
+keyframe_95.jpg,1,A woman wearing a saree,0.272
+keyframe_96.jpg,2,A Saree,0.7255
+keyframe_96.jpg,1,A person wearing pants,0.6951
+keyframe_97.jpg,1,A Saree,0.7421
+keyframe_98.jpg,2,A Kurta,0.935
+keyframe_98.jpg,1,A Saree,0.8915
+keyframe_99.jpg,1,A Kurta,0.972
